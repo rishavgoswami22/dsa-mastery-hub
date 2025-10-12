@@ -1,0 +1,21 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Language specific
+__pycache__/
+*.class
+*.exe
+*.out
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+~*
