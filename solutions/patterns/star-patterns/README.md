@@ -10,7 +10,7 @@
 dsa-mastery-hub/
 ├── solutions/
 │   ├── patterns/
-│   │   ├── star-patterns/      ⭐ START HERE
+│   │   ├── star-patterns/  
 │   │   ├── number-patterns/
 │   │   └── character-patterns/
 │   ├── arrays/
