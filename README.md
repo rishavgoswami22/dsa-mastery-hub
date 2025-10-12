@@ -1,18 +1,19 @@
 # 🚀 DSA Mastery Hub
 
-> Comprehensive DSA solutions with detailed explanations, multiple approaches, and complexity analysis.
+> A collaborative collection of **Data Structures & Algorithms** solutions in C++ and JavaScript.
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Solutions](https://img.shields.io/badge/Solutions-Updating-brightgreen)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20JavaScript-blue)]()
 
 ---
 
 ## 📁 Repository Structure
 
+```
 dsa-mastery-hub/
 ├── solutions/
 │   ├── patterns/
-│   │   ├── star-patterns/  
+│   │   ├── star-patterns/
 │   │   ├── number-patterns/
 │   │   └── character-patterns/
 │   ├── arrays/
@@ -20,66 +21,60 @@ dsa-mastery-hub/
 │   ├── trees/
 │   ├── graphs/
 │   └── dynamic-programming/
-├── resources/
-├── .gitignore
-├── README.md
-└── LICENSE
+└── resources/
+```
+
+Each problem folder contains:
+- `README.md` - Problem description and approach
+- `solution.cpp` - C++ implementation
+- `solution.js` - JavaScript implementation
 
 ---
 
-## 💡 What's Inside Each Solution
+## 🚀 Getting Started
 
-Every problem includes:
-- 🎯 **Problem statement** with source/link  
-- 🧠 **Multiple approaches** (Brute → Better → Optimal)  
-- ⏱️ **Time & Space Complexity** for each approach  
-- 🔑 **Key concepts and patterns**  
-- 📝 **Detailed explanation**  
-- 🧪 **Test cases and edge cases**  
+```bash
+# Clone the repository
+git clone https://github.com/YOUR-USERNAME/dsa-mastery-hub.git
+cd dsa-mastery-hub
 
----
+# Navigate to a problem
+cd solutions/patterns/star-patterns/right-half-pyramid
 
-## 🎯 Topics Covered
+# Run C++ solution
+g++ solution.cpp -o solution && ./solution
 
-**Data Structures:**  
-Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Graphs, Heaps, Tries  
-
-**Algorithms:**  
-Two Pointers, Sliding Window, Binary Search, DFS, BFS, Dynamic Programming, Greedy, Backtracking, Sorting  
-
-**Patterns:**  
-Hashing, Prefix Sum, Kadane's Algorithm, Graph Traversals, Tree Traversals, Pattern Printing  
+# Run JavaScript solution
+node solution.js
+```
 
 ---
 
-## 📚 Resources
+## 🤝 Contributing
 
-Check [`resources/`](resources/) for:
-- 🧾 Time/Space complexity cheat sheets  
-- 🧩 Pattern recognition guides  
-- ⚙️ Algorithm templates  
+1. Pick a problem and language
+2. Create your branch: `git checkout -b solve/problem-name`
+3. Write your solution
+4. Commit: `git commit -m "✅ Solve [Problem Name] in [Language]"`
+5. Push and create a Pull Request
 
 ---
 
 ## 👥 Contributors
 
-**Team Members:**  
-- Sayandeep  
-- Rishav  
-- Sayantan  
+**C++ Solutions**
+- [Sayandeep Paul](https://github.com/sayandeep-paul)
+
+**JavaScript Solutions**
+- [Rishav Goswami](https://github.com/rishav-goswami)
+- [Sayantan Pandey](https://github.com/sayantan-pandey)
 
 ---
 
-## 🤝 How to Use
+## 📝 License
 
-1. Browse problems by topic in the `solutions/` folder  
-2. Each problem contains **multi-approach, well-documented solutions**  
-3. Follow the **consistent template** for faster understanding  
-4. Ideal for **interview preparation and concept mastery**  
+MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📜 License
-
-**MIT License** – see [LICENSE](LICENSE) for details  
-
+**Happy Coding! 🎯**
