@@ -25,6 +25,7 @@ dsa-mastery-hub/
 ```
 
 Each problem folder contains:
+
 - `README.md` - Problem description and approach
 - `solution.cpp` - C++ implementation
 - `solution.js` - JavaScript implementation
@@ -38,15 +39,11 @@ Each problem folder contains:
 git clone https://github.com/YOUR-USERNAME/dsa-mastery-hub.git
 cd dsa-mastery-hub
 
-# Navigate to a problem
+# Browse solutions
 cd solutions/patterns/star-patterns/right-half-pyramid
-
-# Run C++ solution
-g++ solution.cpp -o solution && ./solution
-
-# Run JavaScript solution
-node solution.js
 ```
+
+> **Note:** Solutions are primarily focused on **approach and logic**. Code snippets are adapted from various coding platforms (LeetCode, HackerRank, CodeChef, etc.) and may require minor adjustments to run locally.
 
 ---
 
@@ -63,11 +60,13 @@ node solution.js
 ## 👥 Contributors
 
 **C++ Solutions**
-- [Sayandeep Paul](https://github.com/sayandeep-paul)
+
+- [Sayandeep Paul](https://github.com/officialsayandeeppaul)
 
 **JavaScript Solutions**
-- [Rishav Goswami](https://github.com/rishav-goswami)
-- [Sayantan Pandey](https://github.com/sayantan-pandey)
+
+- [Rishav Goswami](https://github.com/rishavgoswami22)
+- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 ---
 
