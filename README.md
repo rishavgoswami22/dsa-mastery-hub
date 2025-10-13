@@ -1,9 +1,9 @@
 # 🚀 DSA Mastery Hub
 
-> A collaborative collection of **Data Structures & Algorithms** solutions in C++ and JavaScript.
+> A collaborative collection of **Data Structures & Algorithms** solutions in C++, JavaScript, and Java.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20JavaScript-blue)]()
+[![Languages](https://img.shields.io/badge/Languages-C++%20%7C%20JavaScript%20%7C%20Java-blue)]()
 
 ---
 
@@ -29,6 +29,7 @@ Each problem folder contains:
 - `README.md` - Problem description and approach
 - `solution.cpp` - C++ implementation
 - `solution.js` - JavaScript implementation
+- `solution.java` - Java implementation
 
 ---
 
@@ -61,12 +62,12 @@ cd solutions/patterns/star-patterns/right-half-pyramid
 
 **C++ Solutions**
 
-- [Sayandeep Paul](https://github.com/officialsayandeeppaul)
+- [Sayandeep Paul](https://github.com/sayandeep-paul)
 
 **JavaScript Solutions**
 
-- [Rishav Goswami](https://github.com/rishavgoswami22)
-- [Sayantan Pandey](https://github.com/sayantanpandey)
+- [Rishav Goswami](https://github.com/rishav-goswami)
+- [Sayantan Pandey](https://github.com/sayantan-pandey)
 
 ---
 
