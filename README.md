@@ -64,10 +64,13 @@ cd solutions/patterns/star-patterns/right-half-pyramid
 
 - [Sayandeep Paul](https://github.com/sayandeep-paul)
 
+**Java Solutions**
+
+- [Sayantan Pandey](https://github.com/sayantan-pandey)
+- 
 **JavaScript Solutions**
 
 - [Rishav Goswami](https://github.com/rishav-goswami)
-- [Sayantan Pandey](https://github.com/sayantan-pandey)
 
 ---
 
