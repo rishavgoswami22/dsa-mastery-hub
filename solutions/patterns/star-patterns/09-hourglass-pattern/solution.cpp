@@ -6,21 +6,22 @@ int main()
     int n;
     cout << "Enter the N value: ";
     cin >> n;
-    cout << "Printing the pattern ..." << endl;
+
+    cout << "\nPrinting the pattern...\n\n";
 
     for (int row = 1; row <= n; row++)
     {
         // --- TOP HALF ---
         if (row <= (n / 2) + 1)
         {
-            // print spaces
+            // Print leading spaces
             for (int space = 1; space < row; space++)
             {
                 cout << "  "; // double space for alignment
             }
 
-            // print stars
-            int stars = n - (2 * (row - 1)); // decreasing odd sequence
+            // Print stars (decreasing odd sequence)
+            int stars = n - (2 * (row - 1));
             for (int star = 1; star <= stars; star++)
             {
                 cout << "* ";
@@ -31,13 +32,13 @@ int main()
         {
             int bottomRow = row - ((n / 2) + 1);
 
-            // print spaces
+            // Print leading spaces
             for (int space = 1; space <= ((n / 2) - bottomRow); space++)
             {
                 cout << "  ";
             }
 
-            // print stars
+            // Print stars (increasing odd sequence)
             int stars = (2 * bottomRow) + 1;
             for (int star = 1; star <= stars; star++)
             {

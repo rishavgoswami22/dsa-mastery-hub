@@ -5,20 +5,22 @@ int main() {
     int n;
     cout << "Enter the N value: ";
     cin >> n;
-    cout << "Printing the pattern ..." << endl;
-    
+
+    cout << "\nPrinting the pattern...\n\n";
+
     for (int row = 1; row <= n; row++) {
-        // print spaces
+        // Print leading spaces
         for (int space = 1; space <= (row - 1); space++) {
             cout << " ";
         }
 
-        // print stars
+        // Print stars in each row
         for (int star = 1; star <= n; star++) {
             cout << "* ";
         }
-        
+
         cout << endl;
     }
+
     return 0;
 }
