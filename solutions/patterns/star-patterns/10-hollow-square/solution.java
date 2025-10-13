@@ -25,15 +25,6 @@ class solution {
                     System.out.print("* ");
                 }
             }
-            // for(int j=2;j<=n;j++){
-
-            // }
-            // for (int j = 0; j < i - 1; j++) {
-            // System.out.print(" ");
-            // }
-            // for (int j = 0; j < n; j++) {
-            // System.out.print("*");
-            // }
             System.out.println();
         }
     }
