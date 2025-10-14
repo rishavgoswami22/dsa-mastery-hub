@@ -1,5 +1,10 @@
 # Right Half Pyramid
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Right Half Pyramid pattern made of stars (*).
+The number of rows should be fixed (for example, n = 5), and each new row should contain one more star than the previous row — starting from one star in the first row and ending with five stars in the last row.
+
 ## Output
 ```
 * 

@@ -1,5 +1,11 @@
 # Full Pyramid
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Full Pyramid star pattern.
+The program should display stars (*) in a centered pyramid shape, where each row has an increasing number of stars and decreasing spaces.
+The height of the pyramid (number of rows) is defined by the variable n.
+
 ## Output
 ```
     * 

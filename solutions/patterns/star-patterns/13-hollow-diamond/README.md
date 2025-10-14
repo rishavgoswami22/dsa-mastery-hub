@@ -1,5 +1,16 @@
 # Hollow Diamond Pyramid Pattern
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Hollow Diamond Pyramid star pattern.
+- The pattern should be a symmetric diamond where:
+
+- The top half is a hollow full pyramid.
+
+- The bottom half is an inverted hollow pyramid.
+
+- Stars (*) appear only at the edges of each row, leaving the inner area hollow.
+
 ## Output
 ```
    * 

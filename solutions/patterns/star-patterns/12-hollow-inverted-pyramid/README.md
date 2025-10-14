@@ -1,5 +1,18 @@
 # Hollow Inverted Full Pyramid Pattern
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Hollow Inverted Full Pyramid star pattern.
+The pattern should be an inverted pyramid where:
+
+- The first row has the maximum number of stars.
+
+- The middle rows have stars only at the edges, leaving the center hollow.
+
+- The last row has a single star.
+
+- The number of rows is defined by n
+
 ## Output
 ```
  * * * * 

@@ -1,5 +1,10 @@
 # Rhombus Pattern
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Rhombus star pattern.
+The program should display stars (*) in a slanted square shape (rhombus) where each row contains the same number of stars but is shifted to the right using spaces.
+
 ## Output
 ```
 *****

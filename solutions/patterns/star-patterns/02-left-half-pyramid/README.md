@@ -1,5 +1,11 @@
 # Left Half Pyramid
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Left Half Pyramid star pattern.
+The pyramid should be aligned to the right side, with stars (*) increasing in each row.
+The number of rows is fixed (for example, n = 5), and proper spacing should be added to align the stars in a left-half pyramid shape.
+
 ## Output
 ```
         *

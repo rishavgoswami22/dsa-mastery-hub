@@ -1,5 +1,10 @@
 # Inverted Full Pyramid
 
+## 🧩 Problem Statement
+
+Write a Java program to print an Inverted Full Pyramid star pattern.
+The program should display stars (*) in a centered pyramid shape that is inverted, meaning the first row contains the maximum number of stars and each subsequent row contains fewer stars, while spaces are adjusted to maintain the pyramid alignment.
+
 ## Output
 ```
 * * * * * 

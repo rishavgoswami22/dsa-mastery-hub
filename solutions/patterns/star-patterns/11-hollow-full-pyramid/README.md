@@ -1,5 +1,14 @@
 # Hollow Full Pyramid Pattern
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Hollow Full Pyramid star pattern.
+The program should display stars (*) in a centered pyramid shape where:
+
+- The first row has one star, the last row is completely filled, and the middle rows have stars only at the edges, leaving the inner area hollow.
+
+- The number of rows is defined by n.
+
 ## Output
 ```
     * 

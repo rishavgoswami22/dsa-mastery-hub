@@ -1,5 +1,11 @@
 # Hollow Square Pattern
 
+## 🧩 Problem Statement
+
+Write a Java program to print a Hollow Square star pattern.
+The program should display stars (*) forming the boundary of a square while keeping the inner area hollow.
+
+- The number of rows and columns is defined by n.
 ## Output
 ```
 * * * * * 

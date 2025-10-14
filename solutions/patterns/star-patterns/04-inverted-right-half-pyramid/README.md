@@ -1,5 +1,10 @@
 # Inverted Right Half Pyramid
 
+## 🧩 Problem Statement
+
+Write a Java program to print an Inverted Right Half Pyramid star pattern.
+The program should display stars (*) in decreasing order per row — starting with the maximum number of stars in the first row and reducing by one in each subsequent row until only one star remains.
+
 ## Output
 ```
 * * * * *  

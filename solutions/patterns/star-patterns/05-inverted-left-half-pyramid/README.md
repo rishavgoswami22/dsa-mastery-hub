@@ -1,5 +1,10 @@
 # Inverted Left Half Pyramid
 
+## 🧩 Problem Statement
+
+Write a Java program to print an Inverted Left Half Pyramid star pattern.
+The program should display stars (*) aligned to the left but inverted, meaning the first row starts with the maximum number of stars and each subsequent row decreases the star count while increasing spaces to maintain alignment.
+
 ## Output
 ```
 * * * *
