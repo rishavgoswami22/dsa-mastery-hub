@@ -8,7 +8,9 @@
       *
 ```
 
-## Explanation
+## Explanation ✅ Solved using Java 
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+
 The program prints an inverted left half pyramid using nested loops.  
 - The outer loop controls the number of rows.  
 - The first inner loop prints spaces before the stars.  

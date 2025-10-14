@@ -9,7 +9,9 @@
 * * * * * 
 ```
 
-## Explanation
+## Explanation ✅ Solved using Java 
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+
 The program prints a hollow square pattern using nested loops.  
 - The outer loop runs through all rows (`1 to n`).  
 - The first and last rows print all stars.  

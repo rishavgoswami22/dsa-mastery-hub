@@ -9,7 +9,9 @@
     *****
 ```
 
-## Explanation
+## Explanation ✅ Solved using Java 
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+
 The program prints a rhombus pattern using nested loops.  
 - The outer loop controls the number of rows.  
 - The first inner loop prints spaces before the stars to create the slanted effect.  
