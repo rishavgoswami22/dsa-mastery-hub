@@ -1,6 +1,6 @@
 # Star Patterns in Java
 
-This repository contains various star patterns implemented using Java. Each pattern demonstrates the use of nested loops to print stars (*) in specific shapes.
+This repository contains various star patterns implemented using multiple languages. Each pattern demonstrates the use of nested loops to print stars (*) in specific shapes.
 
 # 1. Right Half Pyramid
 
