@@ -66,7 +66,7 @@ cd solutions/patterns/star-patterns/right-half-pyramid
 
 **Java Solutions**
 
-- [Sayantan Pandey](https://github.com/sayantan-pandey)
+- [Sayantan Pandey](https://github.com/sayantanpandey)
   
 **JavaScript Solutions**
 
