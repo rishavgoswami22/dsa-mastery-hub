@@ -17,7 +17,7 @@ The program should display stars (*) in decreasing order per row — starting wi
 
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints an inverted right half pyramid using nested loops.  
 - The outer loop controls the number of rows.  

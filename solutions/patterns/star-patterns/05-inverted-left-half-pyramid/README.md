@@ -14,7 +14,7 @@ The program should display stars (*) aligned to the left but inverted, meaning t
 ```
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints an inverted left half pyramid using nested loops.  
 - The outer loop controls the number of rows.  

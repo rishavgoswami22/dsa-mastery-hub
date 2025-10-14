@@ -14,7 +14,7 @@ The number of rows should be fixed (for example, n = 5), and each new row should
 * * * * * 
 ```
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints a right-half pyramid pattern using nested loops.  
 - The outer loop controls the number of rows.  

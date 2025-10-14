@@ -14,7 +14,7 @@ The program should display stars (*) in a centered pyramid shape that is inverte
     * 
 ```
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey) 
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints an inverted full pyramid using nested loops.  
 - The outer loop controls the number of rows.  

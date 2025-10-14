@@ -25,7 +25,7 @@ Write a Java program to print a Hollow Diamond Pyramid star pattern.
 
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 This program prints a **hollow diamond-shaped pyramid** using nested loops:
 

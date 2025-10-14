@@ -15,7 +15,7 @@ The program should display stars (*) in a slanted square shape (rhombus) where e
 ```
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints a rhombus pattern using nested loops.  
 - The outer loop controls the number of rows.  

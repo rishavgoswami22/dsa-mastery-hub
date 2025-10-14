@@ -20,7 +20,7 @@ The program should display stars (*) in a centered pyramid shape where:
 
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 This program prints a **hollow full pyramid** using nested loops:
 

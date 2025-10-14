@@ -23,7 +23,7 @@ The program should display stars (*) in a symmetric hourglass shape:
 ```
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints an hourglass pattern using nested loops.  
 - The outer loop runs through all rows (`2*n - 1`).  

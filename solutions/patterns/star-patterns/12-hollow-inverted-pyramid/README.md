@@ -24,7 +24,7 @@ The pattern should be an inverted pyramid where:
 
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 This program prints a **hollow inverted full pyramid** using nested loops:
 

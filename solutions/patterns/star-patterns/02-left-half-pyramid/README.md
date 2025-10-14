@@ -16,7 +16,7 @@ The number of rows is fixed (for example, n = 5), and proper spacing should be a
 ```
 
 ## Explanation ✅ Solved using Java 
-👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantan-pandey)
+👨‍💻 Author:- [Sayantan Pandey](https://github.com/sayantanpandey)
 
 The program prints a left-half pyramid star pattern using nested loops.  
 - The outer loop controls the number of rows.  
